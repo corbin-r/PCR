@@ -1,4 +1,4 @@
-# PCR-plus-skew
+# Put/Call Ratio (+Skew)
 
 ## Overview
 Plots a simple put/call ratio by calling requesting `CBOE:PCC`, this indicator also plots the Skew between the Put & Call ratio expressed as a decimal.
